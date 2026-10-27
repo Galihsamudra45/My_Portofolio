@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 350" width="100%" height="100%">
+  <defs>
+    <linearGradient id="g3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#064e3b" />
+      <stop offset="100%" stop-color="#022c22" />
+    </linearGradient>
+  </defs>
+
+  <rect width="500" height="350" fill="url(#g3)" rx="8" />
+
+  <!-- Presentation Screen -->
+  <rect x="70" y="35" width="360" height="200" rx="8" fill="#ffffff" />
+  <rect x="90" y="55" width="160" height="20" rx="4" fill="#047857" />
+  <rect x="90" y="85" width="220" height="10" rx="2" fill="#64748b" />
+  <rect x="90" y="102" width="180" height="10" rx="2" fill="#64748b" />
+
+  <!-- Bar Graph on Screen -->
+  <rect x="290" y="150" width="20" height="50" rx="2" fill="#10b981" />
+  <rect x="320" y="125" width="20" height="75" rx="2" fill="#10b981" />
+  <rect x="350" y="100" width="20" height="100" rx="2" fill="#047857" />
+  <rect x="380" y="70" width="20" height="130" rx="2" fill="#059669" />
+
+  <!-- Presenter pointing to screen -->
+  <circle cx="80" cy="220" r="16" fill="#fed7aa" />
+  <path d="M 60 270 C 60 240 100 240 100 270 Z" fill="#10b981" />
+  <line x1="90" y1="245" x2="140" y2="180" stroke="#fed7aa" stroke-width="6" stroke-linecap="round" />
+
+  <!-- Table & Judges/Mentors -->
+  <rect x="30" y="290" width="440" height="40" rx="4" fill="#1e293b" />
+  <ellipse cx="200" cy="305" rx="20" ry="22" fill="#0f172a" />
+  <ellipse cx="270" cy="305" rx="20" ry="22" fill="#0f172a" />
+  <ellipse cx="340" cy="305" rx="20" ry="22" fill="#0f172a" />
+</svg>
+

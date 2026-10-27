@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" width="100%" height="100%">
+  <defs>
+    <linearGradient id="emeraldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#059669" />
+      <stop offset="100%" stop-color="#047857" />
+    </linearGradient>
+  </defs>
+
+  <rect width="600" height="420" fill="#f0fdf4" stroke="#bbf7d0" stroke-width="3" rx="8" />
+  <rect x="18" y="18" width="564" height="384" fill="#ffffff" stroke="#dcfce7" stroke-width="1.5" rx="6" />
+
+  <!-- Top accent bar -->
+  <rect x="18" y="18" width="564" height="12" fill="url(#emeraldGrad)" rx="6" />
+
+  <text x="300" y="75" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="13" font-weight="700" text-anchor="middle" fill="#059669" letter-spacing="2">SERTIFIKASI MANAJEMEN PROJEK</text>
+  <text x="300" y="98" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="18" font-weight="800" text-anchor="middle" fill="#064e3b">AGILE & SCRUM PROJECT MANAGEMENT</text>
+  
+  <text x="300" y="135" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="11" text-anchor="middle" fill="#64748b">Diberikan atas kelulusan kompetensi kepada:</text>
+  
+  <text x="300" y="180" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="22" font-weight="800" text-anchor="middle" fill="#047857">GALIH SAMUDRA MUBIN</text>
+  <line x1="190" y1="195" x2="410" y2="195" stroke="#a7f3d0" stroke-width="2" />
+
+  <text x="300" y="225" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="12" text-anchor="middle" fill="#334155">Telah menguasai metodologi kerja modern:</text>
+  <text x="300" y="248" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="13" font-weight="600" text-anchor="middle" fill="#065f46">Sprint Planning, Jira & Trello Board, Risk Management, Team Collaboration & Retrospective</text>
+  
+  <g transform="translate(100, 310)">
+    <line x1="0" y1="35" x2="140" y2="35" stroke="#cbd5e1" stroke-width="1.5" />
+    <text x="70" y="50" font-family="Arial" font-size="11" font-weight="600" text-anchor="middle" fill="#334155">Project Management Institute</text>
+    <text x="70" y="64" font-family="Arial" font-size="9" text-anchor="middle" fill="#94a3b8">Authorized Training</text>
+  </g>
+
+  <g transform="translate(360, 310)">
+    <line x1="0" y1="35" x2="140" y2="35" stroke="#cbd5e1" stroke-width="1.5" />
+    <text x="70" y="50" font-family="Arial" font-size="10" font-weight="bold" text-anchor="middle" fill="#059669">ID: PMI-AG-2024-512</text>
+    <text x="70" y="64" font-family="Arial" font-size="9" text-anchor="middle" fill="#94a3b8">Status: Lulus dengan Predikat Amat Baik</text>
+  </g>
+</svg>
+
